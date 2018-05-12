@@ -1,0 +1,65 @@
+
+
+body{
+	margin: 0; 
+	padding: 0;
+	background: url("../images/city.jpeg") no-repeat center center fixed;
+	color: white; 
+	width:100%;
+  	background-size: cover;
+}
+
+.box{
+	width: 450px; 
+	background: rgba(0,0,0,0.4); 
+	padding: 40px; 
+	text-align: center;
+	margin: auto; 
+	margin-top: 5%; 
+	color: white; 
+	font-family: 'Century Gothic', sans-serif; 
+}
+
+.box-img{
+	border-radius: 50%;
+}
+
+.box h1{
+	font-size: 40px; 
+	letter-spacing: 4px; 
+	font-weight: 100;
+}
+
+.box h3{
+	font-size: 30px; 
+	letter-spacing: 3px; 
+	font-weight: 100;
+}
+
+.box p{
+	text-align: justify;
+}
+
+
+.box ul{
+	margin: 0; 
+	padding: 0;
+	list-style-type: none;
+}
+.box li{
+	display: inline-block;
+	margin: 6px;
+	list-style: none
+}
+
+.box li a{
+	color: white;
+	text-decoration: none;
+	transition: all ease-in-out 250ms;
+}
+
+.box li a:hover{
+	color: #b9b9b9;
+}
+
+
