@@ -5,11 +5,6 @@ const myText = document.getElementById('myTextInput');
 
 
 
-
-
-
-
-
 myButton.addEventListener('click', () => {
 	
 	let color = myText.value.toLowerCase();
