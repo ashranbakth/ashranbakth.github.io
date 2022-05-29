@@ -1,8 +1,9 @@
 var i = 0; 
 var txt = `
-A recent graduate from the University of Michigan Ann Arbor with a degree 
-in Computer Science. Skilled in developing software ranging from mobile 
-applications (Android) to web applications.
+A software engineer that has experience working in the automotive and 
+financial mortgage industry building web applications. Have experience using
+frameworks such as Angular for the front-end and C# .NET or Java Spring
+for back-end. Small experience in developing CI/CD pipeline using CircleCI.
 `;
 
 var speed = 50; 
