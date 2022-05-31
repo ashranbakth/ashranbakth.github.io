@@ -41,12 +41,12 @@ body{
 }
 
 
-.box ul{
+.box #socialMedia{
 	margin: 0; 
 	padding: 0;
 	list-style-type: none;
 }
-.box li{
+.box #socialMediaList li{
 	display: inline-block;
 	margin: 6px;
 	list-style: none
@@ -62,4 +62,12 @@ body{
 	color: #b9b9b9;
 }
 
+.flex-container {
+	display: flex;
+	flex-direction: column;
+}
 
+.flex-container > div {
+	text-align: left;
+	font-size: 15px;
+  }
